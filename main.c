@@ -9,6 +9,11 @@ Initial Function()
 Initial Security()
 {
  //Sample Code
+
+feature1()
+{
+  //Sample Code for Feature 1
+
 }
 
 
